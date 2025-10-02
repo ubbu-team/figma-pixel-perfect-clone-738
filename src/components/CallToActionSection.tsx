@@ -8,7 +8,7 @@ const CallToActionSection: React.FC = () => {
           Create &amp; Code your own Game
         </p>
         <h2 className="text-white text-[74px] font-semibold leading-[80px] mb-10 max-md:text-5xl max-md:leading-[56px] max-sm:text-[28px] max-sm:leading-9">
-          Clone a Flappy Bird of your own
+          Clone a Rodrigo of your own
         </h2>
         <button className="text-white text-lg font-bold tracking-[0.36px] w-fit cursor-pointer bg-[#2580FF] mx-auto my-0 px-10 py-[18px] rounded-[40px] max-sm:text-base max-sm:px-8 max-sm:py-4 hover:bg-[#1e6fd9] transition-colors">
           Faz um clone e cria o teu

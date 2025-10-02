@@ -62,7 +62,7 @@ const GamesGrid: React.FC = () => {
   return (
     <section className="bg-[#D9D9D9] px-10 py-20">
       <h2 className="text-[#10192E] text-[40px] font-bold leading-[60px] text-center mb-[60px] max-sm:text-[28px] max-sm:leading-9">
-        Explore the best Flappy Bird Games
+        Explore the best Rodrigo Games
       </h2>
       
       <div className="grid grid-cols-[repeat(3,1fr)] gap-10 max-w-[1200px] mb-[60px] mx-auto max-md:grid-cols-[repeat(2,1fr)] max-md:gap-[30px] max-sm:grid-cols-[1fr] max-sm:gap-5">
